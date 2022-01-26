@@ -4,5 +4,6 @@ public class Latihan {
     public static void main(String[]args){
 
         System.out.printf("Assalamu alaikum");
+        System.out.println("Waalaikum salam");
     }
 }
